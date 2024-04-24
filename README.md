@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Svelte and Typescript**
 
-- 💬 Ask me about **Flask and Python**
-
 - 📫 How to reach me **finn@brendan.monster**
 
 <h3 align="left">Connect with me:</h3>
